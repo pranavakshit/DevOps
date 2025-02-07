@@ -16,7 +16,7 @@ git checkout *
 git clean *
 git clone
 git commit *
-git log
+git log *
 git merge
 git status *
 git stash
