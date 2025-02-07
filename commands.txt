@@ -10,14 +10,14 @@ git push -u origin main
 git pull
 
 07-02-25
-git add
-git branch
-git checkout
-git clean
+git add *
+git branch *
+git checkout *
+git clean *
 git clone
-git commit
+git commit *
 git log
 git merge
-git status
+git status *
 git stash
 
