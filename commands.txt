@@ -1,0 +1,23 @@
+17-01-25
+git init
+git status
+git add
+
+31-01-25
+git remote add git remote add origin https://github.com/pranavakshit/DevOps
+git branch -M main
+git push -u origin main
+git pull
+
+07-02-25
+git add *
+git branch *
+git checkout *
+git clean *
+git clone
+git commit *
+git log *
+git merge *
+git status *
+git stash *
+
